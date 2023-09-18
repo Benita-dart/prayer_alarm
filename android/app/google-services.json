@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774562815060",
+    "project_id": "my-prayer-alarm",
+    "storage_bucket": "my-prayer-alarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774562815060:android:79c5d3fce476732eeca1c1",
+        "android_client_info": {
+          "package_name": "com.example.prayer_alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774562815060-6olin48piecmio088npnhebhgk9br21n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQzIbbHqE9xWk7-OK9FZ1e2mbB-GTGTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774562815060-6olin48piecmio088npnhebhgk9br21n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
